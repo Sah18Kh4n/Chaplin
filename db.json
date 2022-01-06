@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Sahib",
+      "email": "sahib@test.com",
+      "password": "sahib@121",
+      "isAdmin": "admin"
+    },
+    {
+      "id": 3,
+      "userName": "sam",
+      "email": "sam@test.com",
+      "password": "sam@121",
+      "isAdmin": "User"
+    },
+    {
+      "id": 4,
+      "userName": "julia",
+      "email": "julia@test.com",
+      "password": "julia@121",
+      "isAdmin": "User"
+    }
+  ]
+}
